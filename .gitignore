@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+checkpoints/
+run_notebooks.py
+run_remaining.py
+run_eval.py
+complete_notebooks.py
